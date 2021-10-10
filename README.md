@@ -1,14 +1,13 @@
 # MaskDetection
 
----
 
 <div align="center">
 
-[![][logo-url]]
+![][logo-url]
 
 </div>
 
----
+
 
 Face Mask Detection for Covid-19
 
