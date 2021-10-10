@@ -1,4 +1,4 @@
-# MaskDetection
+# Face Mask Detection
 
 
 <div align="center">
